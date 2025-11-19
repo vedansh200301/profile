@@ -4,3 +4,4 @@
 📫 I’m looking to collaborate on open source projects <br/>
 😄 Pronouns: he/him <br/>
 ⚡ Fun fact: With great power, comes great responsibility <br/>
+### Iam a Data Scientist with 10 YOE
